@@ -60,7 +60,7 @@
     "babel-traverse": "^6.26.0",
     "babylon": "^6.18.0",
     "base-64": "^0.1.0",
-    "debug": "^2.6.8",
+    "debug": "^4.3.7",
     "envfile": "^7.1.0",
     "gitignore-parser": "^0.0.2",
     "humps": "CompuIves/humps",
