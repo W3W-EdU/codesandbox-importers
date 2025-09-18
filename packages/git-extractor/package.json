@@ -39,7 +39,7 @@
     "ts-node": "^8.10.1"
   },
   "dependencies": {
-    "@appsignal/nodejs": "^2.0.25",
+    "@appsignal/nodejs": "^3.0.1",
     "@babel/core": "^7.23.2",
     "@babel/traverse": "^7.23.2",
     "@koa/router": "^9.4.0",
@@ -48,7 +48,7 @@
     "acorn-dynamic-import": "^2.0.2",
     "acorn-jsx": "^4.0.1",
     "acorn-object-spread": "LivelyKernel/acorn-object-spread",
-    "axios": "^1.6.0",
+    "axios": "^1.12.0",
     "babel-plugin-dynamic-import-node": "^1.1.0",
     "babel-plugin-syntax-dynamic-import": "^6.18.0",
     "babel-plugin-transform-async-to-generator": "^6.24.1",
